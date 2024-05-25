@@ -1,0 +1,8 @@
+McChicken#19.00
+BigMac#33.000
+DoubleCheeseburger#25.00
+McSpicyChicken#22.00
+Cheeseburger#18.00
+Filet-O-Fish#23.00
+NasiUdukAyam#21.00
+Nugget#20.00 

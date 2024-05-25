@@ -1,0 +1,5 @@
+FrenchFries#15.00
+ApplePie#11.00
+McNuggets#17.00
+FruitSundae#13.00
+BananaSundae#14.00
